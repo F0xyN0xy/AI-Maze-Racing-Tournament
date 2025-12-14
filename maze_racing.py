@@ -21,7 +21,7 @@ MAX_SCROLL = 0
 
 TRAIN_TIME = 20_000
 MAX_RACE_STEPS = 800
-FPS = 30
+FPS = 60 # Standard 
 TRAIL_LENGTH = 40
 RACE_SPEED = 1  # Frames to advance per update during race (start slower)
 TRAINING_SPEED = 1  # AI training steps per frame
