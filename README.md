@@ -17,6 +17,11 @@ An interactive visualization of reinforcement learning where AI agents learn to 
 
 ## 🚀 Quick Start
 
+### Create Virtual Environment
+
+1. Select Python 3.12.0 (the most stable version for pygame)
+2. Create Virtual Environment
+
 ### Prerequisites
 
 ```bash
